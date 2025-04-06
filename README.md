@@ -1,2 +1,5 @@
 # resumo-nuvem-dio
 Este repósitorio contem um breve resumo das lições aprendidas sobre nuvem até o momento
+
+Resumo
+As aulas destacaram a importancia da nuvem para  as empresas que precisam de mais armazenamento. É verdade que elas podem optar por um modelo privado, híbriso ou só na nuvem. A grande vantagem da nuvem é a possibilidade de escalar o processo sem a necessidade de grande investimento em maquinas, mão de obra e espaço. A nuvem da a possibilidade de escalar o processo usando as vantagens que ela permite, como: Escalabilidade, segurança, elasticidade entre outras. Claro que será necessário atenção as custos envolvidos no processo, pois o contratante só irá pagar por aquilo que esta usando. Portanto é preciso ter bastante cuidado sobre o que está sendo usado, para que não se gaste com algo que está ocioso e sem utilidade para a empresa. É um processo que veio para ficar e que tem ajudado empresas a crescerem ao oferecerem produtos ou serviços. Um ponto destacado, e dá atenção ao SLA informado na plataforma de serviço oferecido. 
